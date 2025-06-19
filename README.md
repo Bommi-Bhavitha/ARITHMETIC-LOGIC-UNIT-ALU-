@@ -27,3 +27,8 @@ Applications:
 Foundation for designing processors, microcontrollers, and custom datapaths.
 Used in Embedded Systems, Digital Signal Processing, and Computer Architecture.
 Educational projects for learning Digital Design, HDL, and Simulation Workflows.
+
+
+Output :
+
+![Image](https://github.com/user-attachments/assets/d1198c68-1704-4f07-a426-4f02ed5c41b3
